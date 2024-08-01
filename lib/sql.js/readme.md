@@ -1,0 +1,2 @@
+- Documentation [here](https://sql.js.org/documentation/)
+- Guide [here](https://github.com/sql-js/sql.js?tab=readme-ov-file#usage)
